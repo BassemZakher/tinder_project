@@ -78,5 +78,5 @@ This project demonstrates that speed dating is not a rational marketplace based 
 
 ### 📬 Contact
 
-**[ZAKHER Bassem]** - Data Analyst   
+**ZAKHER Bassem** - Data Analyst   
 LinkedIn : https://www.linkedin.com/in/bassem-zakher/
