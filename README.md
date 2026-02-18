@@ -4,7 +4,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Data Analytics](https://img.shields.io/badge/Data_Analytics-Expert-orange?style=for-the-badge)
 
-!["Attractiveness Impact: Real Means vs. Logistic Probability"](image-2.png)
+!["Attractiveness Impact: Real Means vs. Logistic Probability"](Graphs/07.Attractiveness_Impact_Real_Means_vs._Logistic_Probability.png)
 
 ## 📌 Project Overview
 
@@ -57,7 +57,7 @@ The self-evaluation analysis reveals an **Illusory Superiority Bias**. On averag
 * Analysis of the Gender Expectation Gap.
 * Expectation vs. Reality confrontation (DO).
 * Radar Chart analysis of self-perception.
-![alt text](image-1.png)
+![Self-Perception_vs._Partner's_Reality_Check](Graphs/09.Self-Perception_vs._Partner's_Reality_Check.png)
 
 ---
 
